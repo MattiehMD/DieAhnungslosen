@@ -1,0 +1,44 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 1,
+          "buttontext": "Willkommen",
+          "title1": "Willkommen bei den Ahnungslosen!",
+          "text1": "Die Regeln findet ihr aktuell nur auf unseren Discord!",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      },
+      {
+        "tab2": {
+          "layout": 2,
+          "buttontext": "Stats",
+          "title1": "Stats vom Server:",
+          "text1": "Taming x3 Farming x2 Breeding x15 Food/Water x0.5 Max lvl 150",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link zum Discord",
+          "url": "https://discord.gg/WQDQYKYcHq"
+            }
+         }
+      ]
+   }
+}
